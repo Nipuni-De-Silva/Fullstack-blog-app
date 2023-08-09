@@ -30,5 +30,7 @@ Setup:    Clone this repository to your local machine.
 Credit:   Inspired by the love for blogging and web development
 
 ![Uploading img1.png…]()
+![img2](https://github.com/Nipuni-De-Silva/Fullstack-blog-app/assets/80912329/07e6187d-b6e0-44a0-a311-d8ce7aa06c60)
+![img4-admindashboard](https://github.com/Nipuni-De-Silva/Fullstack-blog-app/assets/80912329/f29c71b7-2f0c-4275-8a5d-02fdccbf7be7)
 
 
