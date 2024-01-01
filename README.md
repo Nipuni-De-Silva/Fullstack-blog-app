@@ -1,4 +1,4 @@
-Project Title: UNISHARE
+UNI-Share: Fullstack web application platform to share blogs
 
 
 ![img1](https://github.com/Nipuni-De-Silva/Fullstack-blog-app/assets/80912329/47935eb0-01a6-459a-b73c-a72f510f9b4c)
